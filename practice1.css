@@ -1,0 +1,5 @@
+html {font-size: 100%;} /*font size 100% in this case is 16 pixels which is our browser default*/
+h1{font-size: 1.5 rem ;} /*1.5 rem in this case is 24 pixels*/
+#div-1{background-color: orange;}
+#div-2{background-color: green;color: antiquewhite;}
+#div-3{background-color: royalblue;color: rgb(233, 237, 240);}
